@@ -1,11 +1,13 @@
 # Hospitality-Industry-Dashboard-Power-BI
-Domain: Hospitality Function: Revenue.The Challenge was all about creating a dashboard for the Revenue Management team of Atliq Grand hotel chain, which can provide key insights on Revenue trend .
+The Challenge was all about creating a dashboard for the Revenue Management team of Atliq Grand hotel chain, which can provide key insights on Revenue trend .
 
 # Problem Statement: 
 AtliQ Grands, a renowned five-star hotel chain in India, has been in the hospitality industry for the past 20 years. Recently, the company has been losing market share and revenue in the luxury/business hotels category due to strategic moves from competitors and ineffective management decisions. To address this issue, the managing director of AtliQ Grands decided to incorporate "Business and Data Intelligence" to regain their market position and revenue. However, they lack an in-house data analytics team, prompting the revenue management team to hire a third-party service provider for insights from their historical data.
 
-# Visualization Tool: Power BI
-# Database: Excel
+# Visualization Tool: 
+Power BI
+# Database: 
+Excel
 # Process:
 1.	Importing and verifying data, with transformations and cleaning in Power Query.
 2.	Data modeling.
@@ -15,16 +17,16 @@ AtliQ Grands, a renowned five-star hotel chain in India, has been in the hospita
 
 # Created following KPI's using DAX -
 
-Total Bookings
-Total Revenue
-Average Rating
-Total Capacity
-Total Successful bookings
-Occupancy %
-Total Cancelled Bookings
-Cancellation Rate
-Revenue Loss
-Total Stay
+1.Total Bookings
+2.Total Revenue
+3.Average Rating
+4.Total Capacity
+5.Total Successful bookings
+6.Occupancy %
+7.Total Cancelled Bookings
+8.Cancellation Rate
+9.Revenue Loss
+10.Total Stay
 
 
 # Dashboard Insights for the Revenue Team:
